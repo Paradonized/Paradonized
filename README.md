@@ -31,7 +31,6 @@
 
 # Recent Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=Paradonized&label=Profile+views&style=plastic"></img>
