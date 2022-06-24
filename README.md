@@ -34,6 +34,6 @@
 <!--END_SECTION:activity-->
 
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=Paradonized&label=Profile+views"></img>
+	<img src="https://komarev.com/ghpvc/?username=Paradonized&label=Profile+views&style=plastic"></img>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Paradonized/Paradonized?style=plastic">
 </div>
