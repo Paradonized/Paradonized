@@ -24,10 +24,11 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Stats
-<img align="left" alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Paradonized&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img align="left" alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradonized&layout=compact&hide_border=true&theme=github_dark" />
+# Stats
+<div style="display: flex; flex-direction: row;">
+	<img alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Paradonized&show_icons=true&hide_border=true&theme=github_dark" />
+	<img alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradonized&layout=compact&hide_border=true&theme=github_dark" />
+</div>
 
 # Recent Activity
 <!--START_SECTION:activity-->
@@ -38,5 +39,5 @@
 
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=Paradonized&label=Profile+views&style=plastic"></img>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Paradonized/Paradonized?style=plastic">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Paradonized/Paradonized?style=plastic">
 </div>
