@@ -8,4 +8,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com/Paradonized/QA-Course/issues/1) in [Paradonized/QA-Course](https://github.com/Paradonized/QA-Course)
+2. ❗️ Opened issue [#2](https://github.com/Paradonized/QA-Course/issues/2) in [Paradonized/QA-Course](https://github.com/Paradonized/QA-Course)
+3. ❗️ Opened issue [#1](https://github.com/Paradonized/QA-Course/issues/1) in [Paradonized/QA-Course](https://github.com/Paradonized/QA-Course)
 <!--END_SECTION:activity-->
