@@ -6,6 +6,6 @@
 
 <img align="left" alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradonized&layout=compact&hide_border=true&theme=github_dark" />
 
----
-# Recent Activity
-<!--RECENT_ACTIVITY:start-->
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
