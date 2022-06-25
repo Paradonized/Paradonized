@@ -1,5 +1,5 @@
 # Hi :wave:,
-I'm Vladislav (Paradonized IGN), Software Engineer and still in university. My goal is to keep learning and growing in both frontend and backend. I strive for being the best Jack-of-all-trades that I can possibly be. I have worked with everything stated in my [Tech Stack](#hammer_and_wrench-tech-stack), however I still have a long way to go with some of them. That only inspires me more. Always willing to learn more.
+I'm Vladislav (Paradonized IGN), Software Engineer and still in university. My goal is to keep learning and growing in both frontend and backend. I strive for being the best Jack-of-all-trades that I can possibly be. I have used everything stated in my [Tech Stack](#hammer_and_wrench-tech-stack), however I still have a long way to go with some of them. That only inspires me more. Always willing to learn more.
 
 # :hammer_and_wrench: Tech Stack
 ### Programming languages:
