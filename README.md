@@ -29,7 +29,7 @@ I'm Vladislav (Paradonized IGN), Software Engineer and still in university. My g
 # :chart_with_upwards_trend: Stats
 <div style="display: flex; flex-direction: row;">
 	<img alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Paradonized&show_icons=true&hide_border=true&theme=github_dark" />
-	<img alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradonized&layout=compact&hide_border=true&theme=github_dark" />
+	<img alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradonized&layout=compact&hide_border=true&theme=github_dark&langs_count=10" />
 </div>
 
 # :zap: Recent Activity
