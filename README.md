@@ -1,5 +1,7 @@
-### Hi there 👋
-## Tech Stack
+# Hi :wave:,
+I'm Vladislav (Paradonized IGN), Software Engineer and still in university. My goal is to keep learning and growing in both frontend and backend. I strive for being the best Jack-of-all-trades that I can possibly be. I have worked with everything stated in my [Tech Stack](#hammer_and_wrench-tech-stack), however I still have a long way to go with some of them. That only inspires me more. Always willing to learn more.
+
+# :hammer_and_wrench: Tech Stack
 ### Programming languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,13 +26,13 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-# Stats
+# :chart_with_upwards_trend: Stats
 <div style="display: flex; flex-direction: row;">
 	<img alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Paradonized&show_icons=true&hide_border=true&theme=github_dark" />
 	<img alt="Paradonized's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradonized&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-# Recent Activity
+# :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com/Paradonized/QA-Course/issues/1) in [Paradonized/QA-Course](https://github.com/Paradonized/QA-Course)
 2. ❗️ Opened issue [#2](https://github.com/Paradonized/QA-Course/issues/2) in [Paradonized/QA-Course](https://github.com/Paradonized/QA-Course)
